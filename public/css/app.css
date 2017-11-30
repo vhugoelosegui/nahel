@@ -1,0 +1,97 @@
+.no-margin {
+  margin: 0px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.top-space {
+  margin-top: 0.5em;
+}
+
+.no-padding {
+  padding: 0px;
+}
+
+.big-padding {
+  padding: 20px;
+}
+
+.no-trasform {
+  text-transform: none;
+}
+
+.blue-grey {
+  background-color: #37474f;
+}
+
+.white {
+  background-color: white;
+}
+
+.white-text {
+  color: white;
+}
+
+.red-text {
+  color: #c83232;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.table {
+  background-color: white;
+}
+
+.product {
+  width: 600px;
+  max-width: 100%;
+  padding: 1em;
+  position: relative;
+}
+
+.product h1 {
+  padding-bottom: 10px;
+  border-bottom: solid 1px;
+}
+
+.product .actions {
+  right: 1em;
+  margin-top: 10px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.floting {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  z-index: 100;
+}
+
+.large-paddig {
+  padding: 10px 15px;
+}
+
+.sale-data {
+  padding: 1em;
+  text-align: center;
+  border-right: solid 1px #222;
+}
+
+.sale-data span {
+  display: block;
+  font-size: 2.2em;
+  color: #3f51b5;
+}
+
+.creado {
+  color: #13BB59;
+}
+
+/*# sourceMappingURL=app.css.map */
